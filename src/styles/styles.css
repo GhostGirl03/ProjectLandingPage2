@@ -1,0 +1,28 @@
+.bar{
+    display: flex;
+}
+
+
+
+.Card.Body{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: center;
+}
+
+
+.color{
+    background: gray;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+    align-content: center;
+}
+
